@@ -2,4 +2,6 @@ membuat file txt di branch development
 
 ternyata pembaruan file di main branch tidak otomatis memperbarui isi file yang sama di development branch
 
+mencoba kolaborasi dengan tim di github dengan cara melakukan merge ke sebagai kontributor
+
 
