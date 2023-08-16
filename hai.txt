@@ -1,1 +1,2 @@
 membuat file txt di branch development
+percobaan melakukan pembaruan file hai.txt di main branch. apakah langsung terjadi perubahan di file hai.txt di development branch ? 
