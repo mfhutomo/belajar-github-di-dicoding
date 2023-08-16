@@ -2,4 +2,5 @@ membuat file txt di branch development
 
 ternyata pembaruan file di main branch tidak otomatis memperbarui isi file yang sama di development branch
 
-lakukan merge
+
+lakukan merge dari dev ke main
