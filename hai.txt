@@ -5,3 +5,5 @@ ternyata pembaruan file di main branch tidak otomatis memperbarui isi file yang 
 mencoba kolaborasi dengan tim di github dengan cara melakukan merge ke sebagai kontributor
 
 coba tambahkan teks lagi
+
+melakukan merge dari devepment ke main branch oleh kontributor
